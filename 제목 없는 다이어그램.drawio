@@ -79,15 +79,6 @@
             <mxPoint x="511" y="387" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vOEwfYhZbGB25si3Ym5E-21" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="지역" vertex="1">
-          <mxGeometry height="40" width="100" x="430" y="427" as="geometry" />
-        </mxCell>
-        <mxCell id="vOEwfYhZbGB25si3Ym5E-22" edge="1" parent="1" source="vOEwfYhZbGB25si3Ym5E-21" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.288;exitY=-0.015;exitDx=0;exitDy=0;exitPerimeter=0;" target="vOEwfYhZbGB25si3Ym5E-2" value="">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="434" as="sourcePoint" />
-            <mxPoint x="581" y="397" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="vOEwfYhZbGB25si3Ym5E-23" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="구매" vertex="1">
           <mxGeometry height="60" width="120" x="640" y="467" as="geometry" />
         </mxCell>
